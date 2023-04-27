@@ -1,7 +1,7 @@
-Hi ! My name is Albina Abykanova
+Hi 👋, I'm Albina 🧚🏽‍♀️
 ========================================================================================================================================
 
-Junior Frontend Developer
+   Junior Frontend Developer
 --------------------------
 
 I'm a Front-End Software Engineer by passion and an expat by choice living in Istanbul, Turkey
